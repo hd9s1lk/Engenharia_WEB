@@ -1,5 +1,6 @@
 ﻿using Aula_3.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Aula_3.Data
 {
@@ -33,6 +34,37 @@ namespace Aula_3.Data
 			
 			_context.Category.AddRange(categorias);
 			_context.SaveChanges();
+
+
+			var courses = new Course[]
+			{
+				new Course
+				{
+					Name="Web Enginner",
+					Description="Creating new sites with ASP.NET",
+					Cost=50, Credits=6,
+					CategoryId=categorias.Single(c=>c.Name=="Programming").Id
+				},
+				new Course
+				{
+                    Name="Strategic Leadership and Management",
+                    Description="Leadership and Business Skill for immediate Impact",
+                    Cost=100, Credits=6,
+                    CategoryId=categorias.Single(c=>c.Name=="Administration").Id
+                },
+				new Course {
+                    Name="Master in Corporate Communication",
+                    Description="This master is bery god",
+                    Cost=80, Credits=10,
+                    CategoryId=categorias.Single(c=>c.Name=="Communication").Id
+                }
+
+			};
+
+			_context.Course.AddRange(courses);
+			_context.SaveChanges();
+
+
 		}
 	}
 }
