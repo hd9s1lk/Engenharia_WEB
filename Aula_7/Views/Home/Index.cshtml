@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<h1>Web cookies in request</h1>
+@if (Context.Request.Cookies.Count == 0)
+{
+    <div>No cookies were sent </div>
+}
+@foreach (var item in Context.Request.Cookies.Keys)
+{
+    <div>@item - @Context.Request.Cookies[item]</div>
+}
+
+
+@foreach (var item in Context.Session.Keys)
+{
+    if(item == "StringValue")
+    {
+        <div> @item - @Context.Session.GetString(item)</div>
+    } else
+    {
+        <div> @item - @Context.Session.GetInt32(item)</div>
+    }
+}
+

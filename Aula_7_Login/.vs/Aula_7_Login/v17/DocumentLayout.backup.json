@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\wwwroot\\css\\site_dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:wwwroot\\css\\site_dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\views\\users\\preferences.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:views\\users\\preferences.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\aula_7_login\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08675AE4-FEE0-4F37-B54E-4F07BF5E439D}|Aula_7_Login.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site_dark.css",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\wwwroot\\css\\site_dark.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site_dark.css",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\wwwroot\\css\\site_dark.css",
+              "RelativeToolTip": "wwwroot\\css\\site_dark.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T18:49:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Preferences.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Users\\Preferences.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Preferences.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Users\\Preferences.cshtml",
+              "RelativeToolTip": "Views\\Users\\Preferences.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:41:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:31:26.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:26:42.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:22:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:14:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:01:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:58:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_7_Login\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:55:12.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
