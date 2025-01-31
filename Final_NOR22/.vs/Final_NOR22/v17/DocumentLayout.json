@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor22\\views\\home\\empresas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|solutionrelative:views\\home\\empresas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor22\\views\\home\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|solutionrelative:views\\home\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor22\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor22\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C76760-42D1-4F0B-8952-F5C26315CD74}|Final_NOR22.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empresas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Empresas.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Empresas.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Empresas.cshtml",
+              "RelativeToolTip": "Views\\Home\\Empresas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T14:44:08.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T14:40:59.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apagar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Apagar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Apagar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Apagar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Apagar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T14:40:51.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T14:30:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T14:27:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:26:07.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

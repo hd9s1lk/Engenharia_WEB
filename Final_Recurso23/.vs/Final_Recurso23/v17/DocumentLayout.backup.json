@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso23\\views\\avaliacao\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|solutionrelative:views\\avaliacao\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso23\\controllers\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|solutionrelative:controllers\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso23\\views\\avaliacao\\pauta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|solutionrelative:views\\avaliacao\\pauta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso23\\views\\avaliacao\\alterar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|solutionrelative:views\\avaliacao\\alterar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso23\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821DA597-D69E-4845-BE71-7A51C4D906A3}|Final_Recurso23.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Views\\Avaliacao\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Avaliacao\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Views\\Avaliacao\\Adicionar.cshtml",
+              "RelativeToolTip": "Views\\Avaliacao\\Adicionar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T16:24:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:21:54.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alterar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Views\\Avaliacao\\Alterar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Avaliacao\\Alterar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Views\\Avaliacao\\Alterar.cshtml",
+              "RelativeToolTip": "Views\\Avaliacao\\Alterar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T16:20:56.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pauta.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Views\\Avaliacao\\Pauta.cshtml",
+              "RelativeDocumentMoniker": "Views\\Avaliacao\\Pauta.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Views\\Avaliacao\\Pauta.cshtml",
+              "RelativeToolTip": "Views\\Avaliacao\\Pauta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T16:17:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvaliacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Controllers\\AvaliacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AvaliacaoController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Controllers\\AvaliacaoController.cs",
+              "RelativeToolTip": "Controllers\\AvaliacaoController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1MAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:13:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso23\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:10:11.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

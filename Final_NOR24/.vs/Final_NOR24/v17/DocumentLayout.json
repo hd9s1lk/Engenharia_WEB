@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\views\\registos\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:views\\registos\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\models\\registoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:models\\registoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\controllers\\registoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:controllers\\registoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\views\\registos\\valida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:views\\registos\\valida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\views\\registos\\invalida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:views\\registos\\invalida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\views\\registos\\adiciona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:views\\registos\\adiciona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor24\\views\\registos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{928B9F12-1FDB-414A-B30B-594B76F667D8}|Final_NOR24.csproj|solutionrelative:views\\registos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invalida.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Invalida.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Invalida.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Invalida.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Invalida.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T16:31:42.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Valida.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Valida.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Valida.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Valida.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Valida.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T16:31:20.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adiciona.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Adiciona.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Adiciona.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Adiciona.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Adiciona.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T16:23:50.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:22:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Lista.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Lista.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T15:59:05.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Views\\Registos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T16:13:05.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistosController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Controllers\\RegistosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistosController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Controllers\\RegistosController.cs",
+              "RelativeToolTip": "Controllers\\RegistosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:57:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistoUtilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Models\\RegistoUtilizador.cs",
+              "RelativeDocumentMoniker": "Models\\RegistoUtilizador.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR24\\Models\\RegistoUtilizador.cs",
+              "RelativeToolTip": "Models\\RegistoUtilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:06.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿@model Estudo_NOR2023.Models.Veiculo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Veiculo Propriedade de</h1>
+
+<a asp-action="Adicionar">Adicionar Veiculo</a>
+
+<div>
+    <h4>Veiculo</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Matricula)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Matricula)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Marca)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Marca)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Modelo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Modelo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-controller="Proprietario" asp-action="Index">Voltar</a>
+</div>

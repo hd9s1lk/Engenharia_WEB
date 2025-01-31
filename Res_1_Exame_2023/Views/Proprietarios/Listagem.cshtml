@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Res_1_Exame_2023.Models.Proprietario>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Nome) *@
+                <a asp-action="Ordena" data-ajax="true" data-ajax-method="get" 
+                data-ajax-mode="replace" data-ajax-update="#tabela">
+                @Html.DisplayNameFor(model => model.Nome)</a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nacionalidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Veiculos) 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nacionalidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Veiculos.Count)
+            </td>
+            <td>
+                <a asp-action="Detalhes" asp-route-id="@item.Id">Details</a>                 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

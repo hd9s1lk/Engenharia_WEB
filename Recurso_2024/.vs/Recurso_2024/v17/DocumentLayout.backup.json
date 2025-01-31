@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\views\\gestao\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:views\\gestao\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\controllers\\gestaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:controllers\\gestaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\models\\registonota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:models\\registonota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\views\\gestao\\inserir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:views\\gestao\\inserir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\views\\gestao\\validar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:views\\gestao\\validar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\recurso_2024\\views\\gestao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B213A2F-5088-4D05-9812-767FB36E43EC}|Recurso_2024.csproj|solutionrelative:views\\gestao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:15:33.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:09:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Validar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Validar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Validar.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Validar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:07:14.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Notas.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Notas.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Notas.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Notas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:59:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Index.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:58:33.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inserir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Inserir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Inserir.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Views\\Gestao\\Inserir.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Inserir.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:56:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Controllers\\GestaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GestaoController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Controllers\\GestaoController.cs",
+              "RelativeToolTip": "Controllers\\GestaoController.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:54:07.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistoNota.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Models\\RegistoNota.cs",
+              "RelativeDocumentMoniker": "Models\\RegistoNota.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Recurso_2024\\Models\\RegistoNota.cs",
+              "RelativeToolTip": "Models\\RegistoNota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:50:42.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

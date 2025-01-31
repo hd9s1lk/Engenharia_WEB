@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ProprietarioVeiculoViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Registo de Proprietarios</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeProprietario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProprietarioNacionalidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VeiculoContagem)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NomeProprietario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProprietarioNacionalidade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VeiculoContagem)
+                </td>
+                <td>
+                    <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a>|
+                    <a asp-action="ordena" asp-route-id="@item.Id">Ordenar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

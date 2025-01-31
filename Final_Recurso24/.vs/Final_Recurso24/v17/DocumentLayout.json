@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\inserir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\inserir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\remover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\remover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\controllers\\gestaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:controllers\\gestaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\validar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\validar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\views\\gestao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:views\\gestao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_recurso24\\models\\registonota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6076D0-F6E6-477F-B8AF-A92EE4CE2452}|Final_Recurso24.csproj|solutionrelative:models\\registonota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:02:41.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Remover.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Remover.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Remover.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Remover.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Remover.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:02:40.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Validar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Validar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Validar.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Validar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T14:59:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Index.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T14:52:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Notas.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Notas.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Notas.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Notas.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T14:52:08.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Create.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T14:48:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inserir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Inserir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gestao\\Inserir.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Views\\Gestao\\Inserir.cshtml",
+              "RelativeToolTip": "Views\\Gestao\\Inserir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T14:48:22.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Controllers\\GestaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GestaoController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Controllers\\GestaoController.cs",
+              "RelativeToolTip": "Controllers\\GestaoController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAA0wMwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:47:20.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T14:45:34.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:45:31.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistoNota.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Models\\RegistoNota.cs",
+              "RelativeDocumentMoniker": "Models\\RegistoNota.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_Recurso24\\Models\\RegistoNota.cs",
+              "RelativeToolTip": "Models\\RegistoNota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:43:13.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

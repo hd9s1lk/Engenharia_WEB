@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Estudo_NOR2024.Models.RegistoUtilizador>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Adiciona" class="btn btn-outline-primary">+</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Regime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Regime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Valido)
+                </td>
+                <td>
+                    <a asp-action="Valida" asp-route-id="@item.RegistoId" class="btn btn-outline-primary">Valida</a>
+                    <a asp-action="Invalida" asp-route-id="@item.RegistoId" class="btn btn-outline-danger">Invalida</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Final_Recurso24.props" />
+</Project>

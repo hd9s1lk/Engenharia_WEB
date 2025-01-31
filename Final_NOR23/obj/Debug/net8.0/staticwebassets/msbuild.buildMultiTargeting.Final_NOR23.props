@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Final_NOR23.props" />
+</Project>

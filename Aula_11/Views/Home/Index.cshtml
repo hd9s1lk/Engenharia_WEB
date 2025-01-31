@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>jQuery testing page</h1>
+
+<p id="box" class="square">This is content to be clicked</p>
+<div class="square">Mouseover this content to change background color</div>
+
+<h2>Sample clock: <span id="time" </span></h2>
+<p id="facing">This text will change color 10 seconds after the page load</p>
+
+<div style="border:dashed;border-color:black;padding:10px;">
+    <form>
+        <label>Enter text:</label>
+        <input type="text"></input>
+        <br></br>
+        <input type="checkbox" id="accept" value="true"></input> &nbsp;I accept the terms and conditions.
+        <input type="submit" value="Register" id="send" style="display:none;"></input>
+    </form>
+</div>
+
+<div style="border:dotted;border-color:blue;padding:20px;">
+    <div>
+        <label for="countries">Choose a country:</label>
+
+        <select name="countries" id="countries">
+            <option value=""> -- Choose a value -- </option>
+            <option value="PT">Portugal</option>
+            <option value="ES">Spain</option>
+            <option value="FR">France</option>
+        </select>
+    </div>
+    <div>
+        <label for="cities"> Choose a city: </label>
+        <select name="cities" id="cities"></select>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $('#box').click(function () {
+            if (confirm("Want to change the color to red?")) {
+                $(this).css("color", "red");
+            }
+            $(this).text("I was clicked!");
+            $(this).css("background-color", "lightcyan");
+        });
+
+        $(".square").mouseover(function () {
+            if ($(this).hasClass("alert-danger")) {
+                $(this).addClass("alert-sucess");
+                $(this).removeClass("alert-danger");
+            } else {
+                $(this).addClass("alert-danger");
+                $(this).removeClass("alert-sucess");
+            }
+        });
+
+        setInterval(function () {
+            $("#time").text(new Date().tolocaleString());
+        }, 1000);
+
+
+        setTimeout(function () {
+            $("#fading").fadeOut(1000, function () {
+                $(this).css({ "color": "red", "font-wight": "bold" });
+            });
+            $("#fading").fadeIn(1000);
+        }, 10000);
+
+        $("#accept").change(function () {
+            if (this.ariaChecked {
+                $("#send").show();
+            } else {
+                $("#send").hide();
+            }
+        });
+
+        $("#countries").change(function () {
+            var index = $(this).val();
+
+            $.getJSON("Home/testAjax", { id: index } function (data) {
+                var $selector = $("cities");
+                $selector.html("");
+
+                if(data.length >0) {
+                    $selector.append($("<option/>", { nodeValue: "", text: "--Choose a city--" }));
+            }
+
+                $.each(data, function (index, val) {
+                    $selector.append($("<option/>", {
+                        value: val,
+                        text: val
+                    }));
+                });
+
+
+
+    </script>
+}

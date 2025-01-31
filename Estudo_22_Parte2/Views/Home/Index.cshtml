@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Estudo_22_Parte2.Models.PaisEmpresaViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Paises Registados</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Abreviatura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumEmpresas)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Abreviatura)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumEmpresas)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary"> >> </a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

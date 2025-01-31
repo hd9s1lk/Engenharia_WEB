@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Estudo_Aula10.Models.Person>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-action="Create" data-ajax="true"
+    data-ajax-method="post" data-ajax-mode="replace"
+    data-ajax-update="#Tabela" data-ajax-sucess="sucesso">
+    <input id="inp" type="text" name="NewName"></input>
+    <input type="submit" value="Create" class="btn btn-primary"></input>
+</form>
+
+Date:@DateTime.Now
+<hr>
+
+<partial name="Listing" model="Model"></partial>
+
+</hr>
+
+Date:@DateTime.Now
+
+<script>
+    function sucesso(){
+        $("#inp").val("");
+    }
+</script>

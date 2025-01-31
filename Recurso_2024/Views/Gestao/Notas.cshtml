@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Recurso_2024.Models.RegistoNota>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Notas</h1>
+
+@* <h2>Notas por validar = @Context.Session.GetString("PorValidar")</h2> *@
+
+<p>
+    <a asp-action="Inserir">Inserir</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumAluno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumAluno)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nota)
+                </td>
+                <td>
+                    <a asp-action="Validar" asp-route-id="@item.Id">Validar</a> |
+                    <a asp-action="Remover" asp-route-id="@item.Id">Remover</a> 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

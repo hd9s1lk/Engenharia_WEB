@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Estudo_Aula6_Parte2.props" />
+</Project>

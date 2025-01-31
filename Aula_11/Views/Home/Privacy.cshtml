@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+<h2>JQuery-UI testing</h2>
+
+<hr></hr>
+<div id="mytabs">
+    <ul>
+        <li><a href="#option1">Header option #1</a></li>
+        <li><a href="#option2">Header option #2</a></li>
+        <li><a href="#option3">Header option #3</a></li>
+    </ul>
+    <div id="option1">
+        This is the text from option 1
+    </div>
+    <div id="option2">
+        This is the text from option 2
+    </div>
+    <div id="option3">
+        This is the text from option 3
+    </div>
+</div>
+
+<div class="ui-widget">
+    <label for="tags"> Tags (with autocomplete):</label>
+    <input id="tags"></input>
+</div>
+
+@section Scripts {
+    <scripts>
+        $("#mytabs").tabs();
+        $("#tags").autocomplete({source: @ViewBag.tags});
+    </scripts>
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\views\\veiculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:views\\veiculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\views\\veiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:views\\veiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\views\\proprietarios\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:views\\proprietarios\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\views\\proprietarios\\ordena.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:views\\proprietarios\\ordena.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\controllers\\proprietarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:controllers\\proprietarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\views\\proprietarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:views\\proprietarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\final_nor23\\models\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB4B1C7-BFC2-49B6-9544-7B56B969B4FE}|Final_NOR23.csproj|solutionrelative:models\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Veiculos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Veiculos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Veiculos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Veiculos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T13:06:12.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Veiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Veiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Veiculos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Veiculos\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T13:02:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Controllers\\VeiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VeiculosController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Controllers\\VeiculosController.cs",
+              "RelativeToolTip": "Controllers\\VeiculosController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Proprietarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proprietarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Proprietarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proprietarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T12:58:34.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ordena.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Proprietarios\\Ordena.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proprietarios\\Ordena.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Proprietarios\\Ordena.cshtml",
+              "RelativeToolTip": "Views\\Proprietarios\\Ordena.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T12:58:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Proprietarios\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proprietarios\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Views\\Proprietarios\\Lista.cshtml",
+              "RelativeToolTip": "Views\\Proprietarios\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T12:14:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProprietariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Controllers\\ProprietariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProprietariosController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Controllers\\ProprietariosController.cs",
+              "RelativeToolTip": "Controllers\\ProprietariosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:11:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Models\\Veiculo.cs",
+              "RelativeToolTip": "Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:08:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Models\\Proprietario.cs",
+              "RelativeDocumentMoniker": "Models\\Proprietario.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR23\\Models\\Proprietario.cs",
+              "RelativeToolTip": "Models\\Proprietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:07:35.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

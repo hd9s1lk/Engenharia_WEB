@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h1>jQuery testing page</h1>
+
+<p id="box" class="square">Clicar</p>
+
+<div class="square">Mouseover</div>
+
+<h2>Sample clock <span id="time"></span></h2>
+
+<p id="fading">O texto vai desaparecer</p>
+
+@section Scripts {
+    <script>
+        $('#box').click(function () {
+            if (confirm("Want to change color to red?")) {
+                $(this).css("color", "red");
+            }
+                
+        }
+                $(this).text("Eu cliquei");
+        $(this).css("background-color", "lightcyan") 
+    });
+
+        $('.square').mouseover(function(){
+            if($(this).hasClass("alert-danger")) {
+                $(this).addClass("alert-sucess");
+                $(this).removeClass("alert-danger");
+            }else {
+                $(this).addClass("alert-danger");
+                $(this).removeClass("alert-sucess");
+            }
+        })
+
+        setInterval(function () {
+            $("#time").text(new Date().toLocaleString());
+        }, 1000);
+
+        setTimeout(function {
+            $("#fading").fadeOut(1000, function () {
+                $(this).css({ "color": "red", "font-weight": "bold" });
+            });
+
+            $("#fading").fadeIn(1000);
+
+        }, 10000);
+        
+
+
+
+        
+    </script>
+}

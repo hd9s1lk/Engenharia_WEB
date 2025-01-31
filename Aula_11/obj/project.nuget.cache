@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXWRjNtl2gI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Aula_11\\Aula_11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique Dias\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
