@@ -1,0 +1,44 @@
+﻿@model IEnumerable<NOR_23.Models.Proprietario>
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Veículo Propriedade de </h1>
+<h2>@ViewBag.Nome</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Matrícula
+            </th>
+            <th>
+                Marca
+            </th>
+            <th>
+                Modelo
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@* @foreach (var veiculo in Model) {
+        <tr>
+            <td>
+                    @veiculo.
+            </td>
+            <td>
+                    @veiculo.Marca
+            </td>
+                <td>
+                    @veiculo.Modelo
+                </td>
+        </tr> *@
+}
+    </tbody>
+</table>
+
+
+<p>
+    <a asp-action="Index">Voltar</a>
+</p>

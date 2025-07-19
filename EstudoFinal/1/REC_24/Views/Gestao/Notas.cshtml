@@ -1,0 +1,55 @@
+﻿@model IEnumerable<REC_24.Models.RegistoNota>
+
+@{
+    ViewData["Title"] = "Notas";
+}
+
+<h1>Notas</h1>
+
+
+
+
+<p>
+    <a asp-action="Inserir">Inserir</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumAluno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumAluno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nota)
+            </td>
+            <td>
+                    @if (item.username == "Anonimo")
+                    {
+                        <span> | <a asp-action="Validar" asp-route-id="@item.Id">Validar</a></span>
+                    }
+                    @if (item.username == User.Identity.Name)
+                    {
+                        <span> | <a asp-action="Remover" asp-route-id="@item.Id">Remover</a></span>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

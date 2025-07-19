@@ -258,3 +258,7 @@ C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net
 C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net8.0\Final_NOR22.pdb
 C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net8.0\Final_NOR22.genruntimeconfig.cache
 C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net8.0\ref\Final_NOR22.dll
+C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\bin\Debug\net8.0\Final_NOR22.staticwebassets.endpoints.json
+C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net8.0\staticwebassets\msbuild.Final_NOR22.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Henrique Dias\Documents\GitHub\Engenharia_WEB\Final_NOR22\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

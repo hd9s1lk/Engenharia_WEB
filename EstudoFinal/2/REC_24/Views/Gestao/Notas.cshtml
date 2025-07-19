@@ -1,0 +1,61 @@
+﻿@model IEnumerable<REC_24.Models.RegistoNota>
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Notas";
+    var PorValidar = HttpContextAccessor.HttpContext?.Session.GetString("PorValidar");
+}
+
+<h1>Notas</h1>
+
+<h4>Notas por validar = @TempData["Anonimos"]</h4>
+
+
+<p>
+    <a asp-action="Inserir">Inserir</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumAluno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumAluno)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nota)
+                </td>
+                <td>
+                    @if(User.Identity.IsAuthenticated && item.Username == "Anónimo")
+                    {
+                        <p>
+                            <a asp-action="Validar">Validar</a>
+                        </p>
+                    }
+                    else if (User.Identity.IsAuthenticated && item.Username == User.Identity.Name) {
+                            <p>
+                                <a asp-action="Remover" asp-route-numAluno="@item.NumAluno">Remover</a>
+                            </p>
+                        }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

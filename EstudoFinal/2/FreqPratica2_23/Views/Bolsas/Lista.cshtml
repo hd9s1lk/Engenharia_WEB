@@ -1,0 +1,43 @@
+﻿@model IEnumerable<FreqPratica2_23.Models.BolsaInvestigacao>
+
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h1>Lista</h1>
+
+<p>
+    <a asp-action="Adiciona">Criar Nova</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Area)
+            </th>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                <a asp-action="AplicarFiltro" asp-route-id="@item.Id">@item.Area</a>
+                    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+                    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+                    <script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive@3.2.13/dist/jquery.validate.unobtrusive.min.js"></script>
+                    <script src="https://cdn.jsdelivr.net/npm/jquery-ajax-unobtrusive@3.2.6/jquery.unobtrusive-ajax.min.js"></script>
+            <td>
+                <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

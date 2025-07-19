@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48ADE07-ADE8-4791-A207-BCD8A83F158E}|NOR_23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\4\\nor_23\\views\\veiculo\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48ADE07-ADE8-4791-A207-BCD8A83F158E}|NOR_23.csproj|solutionrelative:views\\veiculo\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48ADE07-ADE8-4791-A207-BCD8A83F158E}|NOR_23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\4\\nor_23\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48ADE07-ADE8-4791-A207-BCD8A83F158E}|NOR_23.csproj|solutionrelative:controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48ADE07-ADE8-4791-A207-BCD8A83F158E}|NOR_23.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\4\\nor_23\\views\\proprietarios\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48ADE07-ADE8-4791-A207-BCD8A83F158E}|NOR_23.csproj|solutionrelative:views\\proprietarios\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\Views\\Veiculo\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Veiculo\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\Views\\Veiculo\\Adicionar.cshtml",
+              "RelativeToolTip": "Views\\Veiculo\\Adicionar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-13T16:33:20.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VeiculoController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "Controllers\\VeiculoController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:31:07.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\Views\\Proprietarios\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proprietarios\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\4\\NOR_23\\Views\\Proprietarios\\Detalhes.cshtml",
+              "RelativeToolTip": "Views\\Proprietarios\\Detalhes.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-13T16:28:43.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

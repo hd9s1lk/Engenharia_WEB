@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\views\\empresas\\abreviatura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:views\\empresas\\abreviatura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\views\\home\\registo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:views\\home\\registo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\final_nor22\\models\\viewmodelempresapais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A3BD28-177F-4B8D-BA6D-5D5525A8069A}|Final_NOR22.csproj|solutionrelative:models\\viewmodelempresapais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "abreviatura.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Views\\Empresas\\abreviatura.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empresas\\abreviatura.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Views\\Empresas\\abreviatura.cshtml",
+              "RelativeToolTip": "Views\\Empresas\\abreviatura.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T12:07:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "Controllers\\EmpresasController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:04:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModelEmpresaPais.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Models\\ViewModelEmpresaPais.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModelEmpresaPais.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Models\\ViewModelEmpresaPais.cs",
+              "RelativeToolTip": "Models\\ViewModelEmpresaPais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:15:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T10:05:06.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:52:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Views\\Home\\Registo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Registo.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Views\\Home\\Registo.cshtml",
+              "RelativeToolTip": "Views\\Home\\Registo.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T09:49:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Models\\Pais.cs",
+              "RelativeToolTip": "Models\\Pais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:43:16.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Final_NOR22\\Models\\Empresa.cs",
+              "RelativeToolTip": "Models\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:38:35.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

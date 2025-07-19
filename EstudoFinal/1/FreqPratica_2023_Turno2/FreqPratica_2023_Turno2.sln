@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqPratica_2023_Turno2", "FreqPratica_2023_Turno2.csproj", "{F40BB445-2BCE-4FBB-BEE1-681B8CDE832D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40BB445-2BCE-4FBB-BEE1-681B8CDE832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40BB445-2BCE-4FBB-BEE1-681B8CDE832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40BB445-2BCE-4FBB-BEE1-681B8CDE832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40BB445-2BCE-4FBB-BEE1-681B8CDE832D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0CDFEE-2730-4D8E-AC90-6DC47515D627}
+	EndGlobalSection
+EndGlobal

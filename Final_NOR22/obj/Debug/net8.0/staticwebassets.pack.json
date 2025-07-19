@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final_NOR22.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Final_NOR22.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Final_NOR22.ra9zrlhxnq.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\Final_NOR22\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Final_NOR22.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Final_NOR22.Microsoft.AspNetCore.StaticWebAssets.props",

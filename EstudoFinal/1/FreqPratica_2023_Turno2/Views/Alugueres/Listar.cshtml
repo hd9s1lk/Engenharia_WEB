@@ -1,0 +1,42 @@
+﻿@model IEnumerable<FreqPratica_2023_Turno2.Models.Alugueres>
+
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<h1>Alugueres</h1>
+@if (User.Identity.IsAuthenticated)
+{
+    <p>
+        <a asp-action="Adiciona">Criar Novo</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Apartamento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cidade)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apartamento)
+            </td>
+            <td>
+                <a asp-action="AplicarFiltro" asp-route-id="@item.Cidade">@item.Cidade</a>
+            </td>
+            <td>
+                <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

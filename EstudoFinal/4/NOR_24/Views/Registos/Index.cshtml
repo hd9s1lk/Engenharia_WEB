@@ -1,0 +1,31 @@
+﻿@model IEnumerable<NOR_24.Models.RegistoUtilizador>
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Index";
+    var estado = HttpContextAccessor.HttpContext?.Session.GetString("estado");
+}
+
+<h1>Utilizadores</h1>
+
+@if (ViewData.ModelState.IsValid && TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]
+    </div>
+}
+
+@if(estado == null || estado == "editar")
+{
+    <br></br>
+} else
+{
+    <p>
+        <a asp-action="Adiciona" class="btn btn-primary"> + </a>
+    </p>
+}
+
+
+
+<partial name="Listagem" model="Model"></partial>

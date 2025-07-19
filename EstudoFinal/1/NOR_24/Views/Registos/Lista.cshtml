@@ -1,0 +1,21 @@
+﻿@model IEnumerable<NOR_24.Models.RegistoUtilizador>
+
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h1>Utilizadores</h1>
+
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["MensagemSucesso"]
+    </div>
+}
+
+<a>
+    <a asp-action="Adiciona" class="btn btn-primary"> + </a>
+</a>
+
+
+<partial name="Index" model="Model"></partial>

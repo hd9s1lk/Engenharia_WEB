@@ -1,0 +1,49 @@
+﻿@model IEnumerable<FreqPratica_2021.Models.Contacto>
+
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h1>Contactos</h1>
+
+@if (TempData["Nome"] != null)
+{
+    <div class="alert alert-success">
+        Contacto @TempData["Nome"] alterado com sucesso
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NickName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amigo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NickName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amigo)
+            </td>
+            <td>
+                <a asp-action="Alterar" asp-route-id="@item.Email">Edit</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

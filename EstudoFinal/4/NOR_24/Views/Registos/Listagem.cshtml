@@ -1,0 +1,51 @@
+﻿@model IEnumerable<NOR_24.Models.RegistoUtilizador>
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Listagem";
+    var estado = HttpContextAccessor.HttpContext?.Session.GetString("estado");
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Regime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Regime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Valido)
+                </td>
+                <td>
+                    @if(item.Valido == false)
+                    {
+                        <a asp-action="Valida" asp-route-id="@item.Id" class="btn btn-outline-primary">Valida</a>
+                        <script src="~/lib/jquery-ajax/jquery.unobtrusive-ajax.js"></script>
+                    } else if (item.Valido == true)
+                    {
+                        <a asp-action="Invalida" asp-route-id="@item.Id" class="btn btn-outline-primary">Invalida</a>
+                        <script src="~/lib/jquery-ajax/jquery.unobtrusive-ajax.js"></script>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

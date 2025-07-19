@@ -1,0 +1,44 @@
+﻿@model NOR_23.Models.Proprietario
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<h2>Veículo propriedade de @Model.Nome</h2>
+
+<p>
+    <a asp-controller="Veiculos" asp-action="Create" asp-route-id="@Model.Id">Adicionar Veículo</a>
+</p>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Matrícula</th>
+                        <th>Marca</th>
+                        <th>Modelo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var veiculo in Model.Veiculos)
+                {
+                    <tr>
+                        <td>@veiculo.Matricula</td>
+                        <td>@veiculo.Marca</td>
+                        <td>@veiculo.Modelo</td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+
+            <p>
+                <a asp-controller="Proprietarios" asp-action="Index">Voltar</a>
+            </p>
+        </dt>
+    </dl>
+</div>

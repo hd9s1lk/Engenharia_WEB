@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\nor_24\\views\\registos\\listagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|solutionrelative:views\\registos\\listagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\nor_24\\views\\registos\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|solutionrelative:views\\registos\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\nor_24\\controllers\\registoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|solutionrelative:controllers\\registoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\nor_24\\models\\registoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E908DB4-0A2C-416A-B186-1796C2658910}|NOR_24.csproj|solutionrelative:models\\registoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Views\\Registos\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Views\\Registos\\Lista.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T16:13:28.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listagem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Views\\Registos\\Listagem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Listagem.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Views\\Registos\\Listagem.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Listagem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T16:09:14.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistosController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Controllers\\RegistosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistosController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Controllers\\RegistosController.cs",
+              "RelativeToolTip": "Controllers\\RegistosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:08:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistoUtilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Models\\RegistoUtilizador.cs",
+              "RelativeDocumentMoniker": "Models\\RegistoUtilizador.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\NOR_24\\Models\\RegistoUtilizador.cs",
+              "RelativeToolTip": "Models\\RegistoUtilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:05:27.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

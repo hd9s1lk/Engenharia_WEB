@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\controllers\\bolsascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:controllers\\bolsascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\views\\bolsas\\removerfiltro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:views\\bolsas\\removerfiltro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\views\\bolsas\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:views\\bolsas\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\views\\bolsas\\aplicarfiltro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:views\\bolsas\\aplicarfiltro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\views\\bolsas\\adiciona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:views\\bolsas\\adiciona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\views\\bolsas\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:views\\bolsas\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\freqpratica_2023\\models\\bolsainvestigacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6AEED8-5731-4EAF-A91B-82CBA0E5469F}|FreqPratica_2023.csproj|solutionrelative:models\\bolsainvestigacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:47:42.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicarFiltro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\AplicarFiltro.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bolsas\\AplicarFiltro.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\AplicarFiltro.cshtml",
+              "RelativeToolTip": "Views\\Bolsas\\AplicarFiltro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:45:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adiciona.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\Adiciona.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bolsas\\Adiciona.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\Adiciona.cshtml",
+              "RelativeToolTip": "Views\\Bolsas\\Adiciona.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:20:58.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bolsas\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\Detalhes.cshtml",
+              "RelativeToolTip": "Views\\Bolsas\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:16:05.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bolsas\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\Lista.cshtml",
+              "RelativeToolTip": "Views\\Bolsas\\Lista.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:10:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BolsasController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Controllers\\BolsasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BolsasController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Controllers\\BolsasController.cs",
+              "RelativeToolTip": "Controllers\\BolsasController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:09:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoverFiltro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\RemoverFiltro.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bolsas\\RemoverFiltro.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Views\\Bolsas\\RemoverFiltro.cshtml",
+              "RelativeToolTip": "Views\\Bolsas\\RemoverFiltro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:46:13.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BolsaInvestigacao.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Models\\BolsaInvestigacao.cs",
+              "RelativeDocumentMoniker": "Models\\BolsaInvestigacao.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\FreqPratica_2023\\Models\\BolsaInvestigacao.cs",
+              "RelativeToolTip": "Models\\BolsaInvestigacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:07:00.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

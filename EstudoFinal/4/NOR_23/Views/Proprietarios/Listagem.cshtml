@@ -1,0 +1,41 @@
+﻿@model IEnumerable<NOR_23.Models.ProprietarioVeiculoViewModel>
+
+@{
+    ViewData["Title"] = "Listagem";
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+                <script src="~/lib/jquery-ajax/jquery.unobtrusive-ajax.js"></script>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nacionalidade)
+            </th>
+            <th>
+                Veiculos
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nacionalidade)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumVeiculos)
+                </td>
+            <td>
+                <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

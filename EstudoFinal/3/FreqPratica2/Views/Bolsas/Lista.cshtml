@@ -1,0 +1,41 @@
+﻿@model IEnumerable<FreqPratica2.Models.BolsaInvestigacao>
+
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h1>Bolsas de Investigação</h1>
+
+<p>
+    <a asp-action="Adiciona">Criar Nova</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Area)
+            </th>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                    <a asp-action="AplicarFiltro" asp-route-id="@item.Id">@item.Area</a>
+            </td>
+            <td>
+                <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a>
+                <script src="~/lib/jquery-ajax/jquery.unobtrusive-ajax.js"></script>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<REC_22.Models.Empresa>
+
+@{
+    ViewData["Title"] = "MaisInfo";
+}
+
+<h1>Empresas registadas em @TempData["Pais"]</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logotipo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                <img src="~/Fotos/@item.Logotipo"></img>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

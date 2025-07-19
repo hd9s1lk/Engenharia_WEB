@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Final_NOR22.Models.Empresa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logotipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pais)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Logotipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pais.Nome)
+            </td>
+            <td>
+                <form asp-action="Apagar" asp-controller="Home" method="post" style="display:inline;" onsubmit="return confirm('Tem a certeza que quer remover a empresa?');">
+                <button type="submit" class="btn btn-danger btn-sm" title="Remover">X</button>
+            </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Registo" class="btn btn-primary"> + </a>
+</p
+
+
+

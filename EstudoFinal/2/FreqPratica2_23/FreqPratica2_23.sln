@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqPratica2_23", "FreqPratica2_23.csproj", "{4F10B1ED-4FE0-44D6-8A19-D4A39A39CBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F10B1ED-4FE0-44D6-8A19-D4A39A39CBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F10B1ED-4FE0-44D6-8A19-D4A39A39CBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F10B1ED-4FE0-44D6-8A19-D4A39A39CBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F10B1ED-4FE0-44D6-8A19-D4A39A39CBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877BB8CA-055F-48CF-9807-51B8F6E886FE}
+	EndGlobalSection
+EndGlobal

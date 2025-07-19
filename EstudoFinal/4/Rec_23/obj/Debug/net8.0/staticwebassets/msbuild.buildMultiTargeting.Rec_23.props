@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rec_23.props" />
+</Project>

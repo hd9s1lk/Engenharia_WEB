@@ -1,0 +1,67 @@
+﻿@model IEnumerable<REC_23.Models.Aluno>
+
+@{
+    ViewData["Title"] = "Pauta";
+}
+
+<h1>Engenharia Web [14215]</h1>
+
+<h4> Total de Alunos: @TempData["Total"] (@TempData["Positivas"] positivas | @TempData["Negativas"] negativas)</h4>
+
+<p>
+    <a asp-action="Adicionar" class="btn btn-primary"> + </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pratica)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teorica)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pratica)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teorica)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Numero">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Numero">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Numero">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

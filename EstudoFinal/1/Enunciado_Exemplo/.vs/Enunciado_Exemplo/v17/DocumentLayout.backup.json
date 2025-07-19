@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DB_al78804/True/SqlTable/dbo.Aluno.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\enunciado_exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\enunciado_exemplo\\views\\estudantes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|solutionrelative:views\\estudantes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\enunciado_exemplo\\views\\estudantes\\registo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|solutionrelative:views\\estudantes\\registo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\enunciado_exemplo\\controllers\\estudantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|solutionrelative:controllers\\estudantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\enunciado_exemplo\\views\\estudantes\\remover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CB96190-2ECC-446D-84F3-E1585CB757D6}|Enunciado_Exemplo.csproj|solutionrelative:views\\estudantes\\remover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Aluno [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DB_al78804/True/SqlTable/dbo.Aluno.sql",
+              "ToolTip": "dbo.Aluno [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-29T19:11:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Remover.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Views\\Estudantes\\Remover.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudantes\\Remover.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Views\\Estudantes\\Remover.cshtml",
+              "RelativeToolTip": "Views\\Estudantes\\Remover.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T19:10:51.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:09:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Views\\Estudantes\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudantes\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Views\\Estudantes\\Listar.cshtml",
+              "RelativeToolTip": "Views\\Estudantes\\Listar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T19:05:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Views\\Estudantes\\Registo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudantes\\Registo.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Views\\Estudantes\\Registo.cshtml",
+              "RelativeToolTip": "Views\\Estudantes\\Registo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T18:57:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Controllers\\EstudantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudantesController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\Enunciado_Exemplo\\Controllers\\EstudantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudantesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowKQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:53:40.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

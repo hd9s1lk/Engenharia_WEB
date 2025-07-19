@@ -1,0 +1,48 @@
+﻿@model FreqPratica2_23.Models.BolsaInvestigacao
+
+@{
+    ViewData["Title"] = "Adiciona";
+}
+
+<h1>Adiciona</h1>
+
+<h4>Bolsa de Investigacao</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Adiciona">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Área Científica</label>
+                <input asp-for="Area" class="form-control" />
+                <span asp-validation-for="Area" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Duração (Meses)</label>
+                <input asp-for="Mes" class="form-control" />
+                <span asp-validation-for="Mes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Valor da Mensalidade (euros)</label>
+                <input asp-for="Renumeracao" class="form-control" />
+                <span asp-validation-for="Renumeracao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Adiciona" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Lista" class="btn btn-danger">Cancelar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

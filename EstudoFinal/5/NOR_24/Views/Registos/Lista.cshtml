@@ -1,0 +1,12 @@
+﻿@model IEnumerable<NOR_24.Models.RegistoUtilizador>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Utilizadores</h1>
+
+<p>
+    <a asp-action="Adiciona" class="btn btn-outline-primary"> + </a></p>
+
+<partial name="Listagem" model="Model"></partial>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Papp1_pratica_v1.props" />
+</Project>

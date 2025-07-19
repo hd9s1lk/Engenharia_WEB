@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\enunciado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\enunciado\\views\\estudantes\\remover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|solutionrelative:views\\estudantes\\remover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\enunciado\\views\\estudantes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|solutionrelative:views\\estudantes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\enunciado\\views\\estudantes\\registo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|solutionrelative:views\\estudantes\\registo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\enunciado\\controllers\\estudantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|solutionrelative:controllers\\estudantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\5\\enunciado\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9A277F-00D8-47E9-8EE1-9945A968A7D5}|Enunciado.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:59:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Remover.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Views\\Estudantes\\Remover.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudantes\\Remover.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Views\\Estudantes\\Remover.cshtml",
+              "RelativeToolTip": "Views\\Estudantes\\Remover.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T10:58:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Views\\Estudantes\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudantes\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Views\\Estudantes\\Listar.cshtml",
+              "RelativeToolTip": "Views\\Estudantes\\Listar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T10:47:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Views\\Estudantes\\Registo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudantes\\Registo.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Views\\Estudantes\\Registo.cshtml",
+              "RelativeToolTip": "Views\\Estudantes\\Registo.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T10:42:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Controllers\\EstudantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudantesController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Controllers\\EstudantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudantesController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:42:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\5\\Enunciado\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:38:41.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿@model NOR_24.Models.RegistoUtilizador
+
+@{
+    ViewData["Title"] = "Valida";
+}
+
+<h1>Valida</h1>
+
+<h4>RegistoUtilizador</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Valida">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="RegistoId" />
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Valido" /> @Html.DisplayNameFor(model => model.Valido)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Lista">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FreqPratica1.props" />
+</Project>

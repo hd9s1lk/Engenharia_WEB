@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\3\\nor_24\\views\\registos\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|solutionrelative:views\\registos\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\3\\nor_24\\controllers\\registoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|solutionrelative:controllers\\registoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\3\\nor_24\\views\\registos\\listagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|solutionrelative:views\\registos\\listagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\3\\nor_24\\views\\registos\\adiciona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|solutionrelative:views\\registos\\adiciona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|c:\\users\\henrique dias\\documents\\github\\engenharia_web\\estudofinal\\3\\nor_24\\models\\registoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7F465-2D3E-4045-8B1D-9E8257976EEA}|NOR_24.csproj|solutionrelative:models\\registoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adiciona.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Views\\Registos\\Adiciona.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Adiciona.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Views\\Registos\\Adiciona.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Adiciona.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T15:18:21.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listagem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Views\\Registos\\Listagem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Listagem.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Views\\Registos\\Listagem.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Listagem.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T15:05:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Views\\Registos\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registos\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Views\\Registos\\Lista.cshtml",
+              "RelativeToolTip": "Views\\Registos\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T15:04:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistosController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Controllers\\RegistosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistosController.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Controllers\\RegistosController.cs",
+              "RelativeToolTip": "Controllers\\RegistosController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwIEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:03:11.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistoUtilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Models\\RegistoUtilizador.cs",
+              "RelativeDocumentMoniker": "Models\\RegistoUtilizador.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Documents\\GitHub\\Engenharia_WEB\\EstudoFinal\\3\\NOR_24\\Models\\RegistoUtilizador.cs",
+              "RelativeToolTip": "Models\\RegistoUtilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:00:01.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

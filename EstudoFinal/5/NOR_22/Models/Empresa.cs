@@ -1,0 +1,20 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace NOR_22.Models
+{
+    public class Empresa
+    {
+        [Key]
+        public int Id { get; set; }
+
+        [Required]
+        [StringLength(200,MinimumLength =5)]
+        public string Name { get; set; }
+
+        public string Logotipo { get; set; }
+
+
+        public virtual int PaisID { get; set; }
+        public virtual Pais? Pais { get; set; }
+    }
+}

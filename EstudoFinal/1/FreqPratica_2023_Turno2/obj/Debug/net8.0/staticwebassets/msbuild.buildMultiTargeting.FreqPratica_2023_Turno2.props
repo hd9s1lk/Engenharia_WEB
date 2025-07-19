@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FreqPratica_2023_Turno2.props" />
+</Project>

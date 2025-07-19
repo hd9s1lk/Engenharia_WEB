@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Papp1_pratica_v1.Models.Carro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Inserir">Inserir Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ano)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vendido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Marca)
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ano)
+                </td>
+                <td>
+                        <img src="~/Fotos/@item.Foto" width="60" height="60"></img>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vendido)
+                </td>
+                <td>
+                    @if(item.Vendido == false)
+                    {
+                        <a asp-action="Comprar">Comprar</a>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

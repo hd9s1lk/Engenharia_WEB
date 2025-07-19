@@ -1,0 +1,27 @@
+﻿@model IEnumerable<NOR_24.Models.RegistoUtilizador>
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Index";
+    var estado = HttpContextAccessor.HttpContext?.Session.GetString("estado");
+    bool mostrarLinks = (estado == "editar");
+}
+
+<h1>Utilizadores</h1>
+
+@if (TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]
+    </div>
+}
+
+@if (mostrarLinks)
+{
+    <p>
+        <a asp-action="Adiciona" class="btn btn-outline-primary"> + </a>
+    </p>
+}
+
+<partial name="Lista" model="Model"></partial>
